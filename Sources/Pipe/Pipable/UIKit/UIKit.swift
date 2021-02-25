@@ -23,6 +23,7 @@
 //
 
 #if canImport(UIKit)
+import UIKit
 
 //IndexPath
 extension Array {
@@ -72,4 +73,5 @@ extension CGRect {
     }
     
 }
+
 #endif
